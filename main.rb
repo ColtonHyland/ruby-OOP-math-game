@@ -21,7 +21,11 @@
 # ----- GAME OVER -----
 # Good bye!
 
+require 'game'
+
 def main()
+
+  Game.new()
 
 end
 
